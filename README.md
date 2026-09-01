@@ -24,88 +24,31 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Narvar
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Narvar** | Enterprise post-purchase platform focused on order tracking, delivery communications, returns, exchanges, customer experience, and branded post-purchase journeys. | Starts at ~$200/mo (SMB entry tier) / Custom enterprise (typically $20,000–$50,000/year) | No free forever plan; tailored demo and pilot sandbox available upon sales discovery (0-day public trial) |
+| **AfterShip** | Multi-carrier shipment tracking and returns platform providing branded tracking pages, delivery notifications, shipment visibility, and returns workflows. | Starts at $11/mo (Essentials plan, 100 shipments/mo; overage $0.08/shipment) | Free forever plan: 50 shipments/mo with 1,100+ carriers and basic tracking; 7 to 14-day free trial on paid plans |
+| **parcelLab** | Post-purchase experience platform supporting proactive delivery communications, order tracking, returns, operational visibility, and personalized customer engagement. | Starts at ~$500/mo (Standard entry tier) / Enterprise volume-based annual contracts | No free forever plan; 14-day free trial for AI Commerce Visibility (includes 1,000 audit credits); custom POC via demo |
+| **Wonderment** | Ecommerce post-purchase platform focused on shipment tracking, delivery notifications, shipping-event automation, and proactive customer communication. | Starts at $99/mo (Essential plan, covers up to 1,000 shipments/mo) | 14-day free trial on Shopify (full access to core tracking & notification automations, no credit card required) |
+| **Malomo** | Post-purchase marketing and order-tracking platform that helps ecommerce brands create branded tracking experiences and delivery communications. | Starts at $49/mo (Lite plan, up to 1,000 shipments/mo) | No free forever plan; 14-day to 30-day trial available via partner promotions / sales demo sandbox |
+| **Ordertracker** | Shipment-tracking platform supporting multi-carrier parcel tracking, international shipment visibility, and tracking APIs. | Starts at $9/mo (Shopify starter, 200 shipments/mo) / $29/mo (API starter, 500 shipments/mo) | Free forever plan: 25 shipments/mo with unlimited lookups and web widget; 7-day free trial for Shopify app |
+| **Loop Returns** | Ecommerce returns and exchanges platform focused on self-service returns, exchanges, store credit, return policies, and reverse-logistics workflows. | Starts at $155/mo (Essential plan, up to 1,000 returns/year) | Free forever plan: Checkout+ tier ($0/mo software fee, shopper-funded return protection with domestic US/CA returns portal) |
+| **ReturnGO** | Returns-management platform providing automated return workflows, self-service portals, exchanges, refunds, and reverse-logistics capabilities. | Starts at $23/mo (Shopify Starter) / $147/mo (Premium plan) | 14-day free trial with full access to automated returns, exchange portal, and rule engine |
+| **Route** | Post-purchase platform focused on package tracking, package protection, shipping visibility, and customer-facing delivery experiences. | Starts at $0/mo for merchants (Standard plan; shopper-funded package protection fee of 2%–2.5%, min. $0.98) | Free forever plan for merchants: unlimited branded visual package tracking and claims resolution at $0 software fee |
+| **Track123** | Ecommerce shipment-tracking platform offering branded tracking pages, delivery notifications, multi-carrier tracking, and Shopify-oriented workflows. | Starts at $9/mo (Growth plan, up to 300 shipments/mo) | Free forever plan: 50 shipments/mo with real-time tracking, branded tracking page, and email notifications |
+| **17TRACK** | Global multi-carrier shipment-tracking platform supporting tracking visibility across a large international carrier network. | Starts at $9/mo (Basic merchant plan, 200 shipments/mo) / API quota plans from $28/year | Free forever plan: 50 shipments/mo on merchant app + 100 free tracking API quota calls/mo (refreshed monthly) |
+| **Ship24** | Shipment-tracking and logistics-data platform providing multi-carrier tracking, APIs, delivery events, and international parcel visibility. | Starts at $3.90/mo (Essential All-in-One tracking) / $39/mo (Tracking API starter) | Free forever plan: 10 shipments/mo (All-in-One) + 100 free API calls/mo / 100-shipment first-month bonus |
+| **Parcel Perform** | Delivery-experience and parcel-monitoring platform focused on shipment visibility, logistics intelligence, delivery performance, and customer communications. | Starts at ~$500/mo (Data & Visibility tier) / Custom enterprise contracts | No free forever core plan; 14-day free trial for AI Commerce Visibility (1,000 audit credits); custom pilot via sales demo |
+| **WeSupply** | Ecommerce post-purchase platform supporting returns, exchanges, order tracking, notifications, and customer self-service workflows. | Starts at $75/mo (Grow plan, up to 2,500 shipments/mo) | 14-day free trial with full access to order tracking, notifications, and returns features (no credit card required) |
+| **Happy Returns** | Returns and reverse-logistics platform focused on customer-friendly returns, drop-off networks, exchanges, and merchant return operations. | Starts at ~$500/mo (Plus subscription) + variable Return Bar drop-off fee ($1.50–$3.50/return) | No free forever plan; tailored enterprise proof-of-concept / sandbox evaluation provided during merchant onboarding |
+| **Redo** | Ecommerce post-purchase and package-protection platform supporting returns, exchanges, shipping protection, and customer experience workflows. | Starts at $0/mo for core returns portal (consumer-funded coverage model at ~$1.98/order) / Add-ons from $10–$99/mo | Free forever core plan: unlimited return portal and self-service exchanges at $0 platform fee; free uncapped Order Editing tool |
+| **Sendcloud** | Shipping and delivery-management platform offering carrier integrations, tracking, shipping automation, returns, and ecommerce logistics workflows. | Starts at €28/mo (~$30/mo, Lite plan + €0.10/label) | Free forever plan: €0/mo for shipping via Sendcloud carrier rates (no monthly subscription); 14-day free trial on paid plans |
+| **ShipStation** | Shipping-management platform supporting order fulfillment, carrier integrations, tracking, shipping labels, and ecommerce operations. | Starts at $14.99/mo (Starter plan, up to 50 shipments/mo) | 30-day free trial with full platform access and unlimited label creation testing (no credit card required) |
+| **Shippo** | Multi-carrier shipping platform providing shipping APIs, label generation, tracking, and ecommerce logistics integrations. | Starts at $19/mo (Pro plan, up to 200 labels/mo with automated workflows & branded tracking) | Free forever plan: $0/mo Starter plan (up to 30 shipping labels/mo with discounted carrier rates); 30-day free trial on Pro |
+| **Easyship** | Shipping and logistics platform supporting carrier selection, international shipping, tracking, shipping rates, and fulfillment workflows. | Starts at $29/mo (Plus plan, up to 500 shipments/mo) | Free forever plan: $0/mo (up to 50 shipments/mo with 50+ carrier integrations); 14-day free trial on Plus plan |
 
-Enterprise post-purchase platform focused on order tracking, delivery communications, returns, exchanges, customer experience, and branded post-purchase journeys.
-
-AfterShip
-
-Multi-carrier shipment tracking and returns platform providing branded tracking pages, delivery notifications, shipment visibility, returns workflows, and developer integrations. 
-GitHub
-
-parcelLab
-
-Post-purchase experience platform supporting proactive delivery communications, order tracking, returns, operational visibility, and personalized customer engagement.
-
-Wonderment
-
-Ecommerce post-purchase platform focused on shipment tracking, delivery notifications, shipping-event automation, and proactive customer communication.
-
-Malomo
-
-Post-purchase marketing and order-tracking platform that helps ecommerce brands create branded tracking experiences and delivery communications.
-
-Ordertracker
-
-Shipment-tracking platform supporting multi-carrier parcel tracking, international shipment visibility, and tracking APIs.
-
-Loop Returns
-
-Ecommerce returns and exchanges platform focused on self-service returns, exchanges, store credit, return policies, and reverse-logistics workflows.
-
-ReturnGO
-
-Returns-management platform providing automated return workflows, self-service portals, exchanges, refunds, and reverse-logistics capabilities.
-
-Route
-
-Post-purchase platform focused on package tracking, package protection, shipping visibility, and customer-facing delivery experiences.
-
-Track123
-
-Ecommerce shipment-tracking platform offering branded tracking pages, delivery notifications, multi-carrier tracking, and Shopify-oriented workflows.
-
-17TRACK
-
-Global multi-carrier shipment-tracking platform supporting tracking visibility across a large international carrier network.
-
-Ship24
-
-Shipment-tracking and logistics-data platform providing multi-carrier tracking, APIs, delivery events, and international parcel visibility.
-
-Parcel Perform
-
-Delivery-experience and parcel-monitoring platform focused on shipment visibility, logistics intelligence, delivery performance, and customer communications.
-
-WeSupply
-
-Ecommerce post-purchase platform supporting returns, exchanges, order tracking, notifications, and customer self-service workflows.
-
-Happy Returns
-
-Returns and reverse-logistics platform focused on customer-friendly returns, drop-off networks, exchanges, and merchant return operations.
-
-Redo
-
-Ecommerce post-purchase and package-protection platform supporting returns, exchanges, shipping protection, and customer experience workflows.
-
-Sendcloud
-
-Shipping and delivery-management platform offering carrier integrations, tracking, shipping automation, returns, and ecommerce logistics workflows.
-
-ShipStation
-
-Shipping-management platform supporting order fulfillment, carrier integrations, tracking, shipping labels, and ecommerce operations.
-
-Shippo
-
-Multi-carrier shipping platform providing shipping APIs, label generation, tracking, and ecommerce logistics integrations.
-
-Easyship
-
-Shipping and logistics platform supporting carrier selection, international shipping, tracking, shipping rates, and fulfillment workflows.
 
 Open-Source GitHub Projects
 
